@@ -1,5 +1,5 @@
 # Data-Mining-Principles-SAS
-MscA program_Classroom Teaching SAS Code 
+
 
 # Association Rule Discovery Defined :
 The rules are expressed as “if item A is part of a transaction, then item B is also part of the transaction X percent of the time.” where 0 < X ≤ 100.
