@@ -1,7 +1,6 @@
 /**************************************************************************************************/
 /* Name:     compute_lift_coordinates.sas                                                         */
 /* Purpose:  Compute coordinates for the Lift chart                                               */
-/* Creator:  Ming-Long Lam, Ph.D., University of Chicago                                          */
 /* Date:     November 5, 2016                                                                     */
 /**************************************************************************************************/
 
