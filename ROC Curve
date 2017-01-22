@@ -30,7 +30,6 @@ run;
 /**************************************************************************************************/
 /* Name:     compute_roc_coordinates.sas                                                          */
 /* Purpose:  Compute coordinates for the Receiver Operating Characteristics (ROC) curve           */
-/* Creator:  Ming-Long Lam, Ph.D., University of Chicago                                          */
 /* Date:     November 5, 2016                                                                     */
 /**************************************************************************************************/
 
